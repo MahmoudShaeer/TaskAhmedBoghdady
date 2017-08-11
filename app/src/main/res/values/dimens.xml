@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="drawable_padding">8dp</dimen>
+
+    <dimen name="edit_texts_margin">8dp</dimen>
+
+    <dimen name="xxx_large_margin">72dp</dimen>
+
+    <dimen name="xxx_large_padding">72dp</dimen>
+
+    <dimen name="xx_large_margin">64dp</dimen>
+
+    <dimen name="xx_large_padding">64dp</dimen>
+
+    <dimen name="x_large_margin">32dp</dimen>
+
+    <dimen name="x_large_padding">32dp</dimen>
+
+    <dimen name="large_margin">24dp</dimen>
+
+    <dimen name="large_padding">24dp</dimen>
+
+    <dimen name="medium_margin">16dp</dimen>
+
+    <dimen name="medium_padding">16dp</dimen>
+
+    <dimen name="small_margin">12dp</dimen>
+
+    <dimen name="small_padding">12dp</dimen>
+
+    <dimen name="x_small_margin">8dp</dimen>
+
+    <dimen name="x_small_padding">8dp</dimen>
+
+    <dimen name="tiny_margin">6dp</dimen>
+
+    <dimen name="tiny_padding">6dp</dimen>
+
+    <dimen name="edittext_hint_text_size">14sp</dimen>
+
+
+</resources>

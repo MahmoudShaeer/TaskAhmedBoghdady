@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mahmoudshaeer.taskahmedboghdady">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activity.ResultActivtiy"
+            android:label="@string/results_title_activty">
+
+        </activity>
+        <activity
+            android:name=".activity.SplashActivity"
+            android:label="Welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="8a6304c1b2e81829fdd3fb65c26cd9db74bf5965" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

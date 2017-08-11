@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mahmoudshaeer.taskahmedboghdady.activity.SplashActivity">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/medium_margin">
+
+        <EditText
+            android:id="@+id/SplashActivity_EditeText_StidentId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:layout_margin="@dimen/small_margin"
+            android:hint="@string/enter_student_id"
+            android:textColorHint="#b60000" />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/medium_margin">
+
+        <EditText
+            android:id="@+id/SplashActivity_EditeText_xApiKey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/small_margin"
+            android:hint="@string/enter_X_APi_Key"
+            android:inputType="number"
+            android:textColorHint="#b60000" />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/SplashActivity_Button_Show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/medium_margin"
+        android:background="@drawable/btn_click"
+        android:text="@string/show"
+        android:textColor="#fff" />
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    ------------------------ !! Splash Activity !! --------------------
+    <string name="show">عرض</string>
+    <string name="enter_student_id">ادخل رقم التلميذ</string>
+    <string name="error_server">فشل بالاتصال بالانترنت</string>
+    <string name="message_dialog_api">من فضلك انتظر قليلا</string>
+    <string name="enter_X_APi_Key">قم بادخال x api key</string>
+    <string name="studentId">ادخل رقم التلميذ</string>
+
+    ----------------------- !! Result Activity !! ----------------------
+
+    <string name="results_title_activty">النتائج</string>
+    <string name="title_tab_final_Grade">النتيجة النهائية</string>
+    <string name="title_tab_recycler_Grade">النتائج الدورية</string>
+    <string name="total">المجموع</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TaskAhmedBoghdady</string>
+
+    ------------------------ !! Splash Activity !! --------------------
+    <string name="show">Show</string>
+    <string name="enter_student_id">Enter Student id</string>
+    <string name="error_server">Field Connection Server</string>
+    <string name="message_dialog_api">Please Wait ...</string>
+    <string name="enter_X_APi_Key">Enter X Api Key</string>
+    <string name="studentId">Write Student Id</string>
+
+    ----------------------- !! Result Activity !! ----------------------
+
+    <string name="results_title_activty">Results</string>
+    <string name="title_tab_final_Grade">Final Grade</string>
+    <string name="title_tab_recycler_Grade">Recycler Grade</string>
+    <string name="total">Total</string>
+
+
+
+</resources>
